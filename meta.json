@@ -1,0 +1,24 @@
+{
+ "name": "ripgrep",
+ "version": "15.2.0",
+ "license": "MIT or Unlicense",
+ "homepage": "https://github.com/BurntSushi/ripgrep",
+ "licenses": [
+  "LICENSE",
+  "UNLICENSE",
+  "NOTICE.txt"
+ ],
+ "sources": [
+  "ripgrep-15.2.0-src.tar.gz"
+ ],
+ "desc": "ripgrep 15.2.0: rg, a very fast recursive text search (64-bit tOS)",
+ "file": "ripgrep-15.2.0.tpkg",
+ "size": 2223924,
+ "sha256": "299341a9326b265778551471b348ea5f2cad341a37843faa76a079e8b2d5c506",
+ "unpacked": 5668690,
+ "min_build": 616,
+ "depends": [],
+ "commands": {
+  "rg": "bin/rg"
+ }
+}

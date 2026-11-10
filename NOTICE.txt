@@ -1,0 +1,4 @@
+ripgrep 15.2.0 for tOS
+=======================
+
+bin/rg is the x86_64-unknown-linux-musl build the ripgrep project publishes for 15.2.0 (a static program), unmodified. License: MIT or the Unlicense, as you choose (LICENSE, UNLICENSE). The source is ripgrep-15.2.0-src.tar.gz, beside this package on update.artfical.com.
